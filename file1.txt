@@ -1,1 +1,3 @@
 my first file
+I remembered how to VIM!
+Maybe. I don't remember how to quit.
